@@ -1,4 +1,4 @@
-import Box from "../Components/Box"
+import Box from "../Box"
 import "./style.css"
 
 const TodaySummary = () => {

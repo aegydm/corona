@@ -1,5 +1,5 @@
 import Summary from "../Components/Summary"
-import TodaySummary from "../TodaySummary"
+import TodaySummary from "../Components/TodaySummary"
 
 
 const Korea = () => {
